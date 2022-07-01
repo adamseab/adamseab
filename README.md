@@ -1,9 +1,4 @@
-- 👋 Hi folks, I’m Adam, but most call me Seab!
-- 👀 I’m interested in aviation, travel, cloud engineering, and gaming!
-- 🌱 I’m currently learning AWS, Linux and some web-dev stuff...
-- 📫 How to reach me? Check out https://adam.theseabs.com or https://comeflywithseab.com 
-
-<!---
-adamseab/adamseab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi folks, I’m Adam, but most call me Seab!
+- I’m interested in aviation, travel, cloud engineering, and gaming!
+- I’m currently a Junior Cloud Engineer, learning more about AWS, EKS, Linux and some web-dev stuff...
+- Check out https://adam.theseabs.com or https://comeflywithseab.com (err... when I finally fix it)
