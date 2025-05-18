@@ -1,4 +1,4 @@
 - Hi folks, I’m Adam, but most call me Seab!
-- I’m interested in aviation, travel, cloud engineering, gaming and cats 🙂‍↕️
+- I’m interested in aviation, travel, cloud engineering, gaming and cats
 - I’m currently a SC-Cleared Associate Cloud Engineer, continuously learning more about AWS, EKS/Kubernetes, CICD Tooling, Linux and some Python
 - Love Comms and not averse to writing a blog if asked
